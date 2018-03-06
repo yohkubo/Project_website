@@ -21,8 +21,11 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Test_website", "Test_websit
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "49579"
+		SlnRelativePath = "Test_website\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF7163F3-66F6-4789-AF90-058835F9A379}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
